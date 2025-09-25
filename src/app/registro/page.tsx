@@ -59,9 +59,9 @@ export default function RegistroPage() {
             <Image
               src="/logo.png"
               alt="HabilixUp Logo"
-              width={60}
-              height={60}
-              className="sm:w-20 sm:h-20"
+              width={96}
+              height={96}
+              priority
             />
           </Link>
           <h2 className="mt-4 sm:mt-6 text-center text-2xl sm:text-3xl font-extrabold text-gray-900">
