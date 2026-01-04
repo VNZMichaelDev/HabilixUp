@@ -12,7 +12,7 @@ const Header = () => {
       <Menu className="w-6 h-6 text-primary" />
     </button>
     <div className="flex items-center">
-      <img src="/Logo.png" alt="HabilixUp logo" className="h-10 md:h-14 w-auto" />
+      <img src="https://i.postimg.cc/CKd8tSDN/Logo.png" alt="HabilixUp logo" className="h-10 md:h-14 w-auto" />
     </div>
     <div className="flex gap-4">
       <Link to="/favorites">
