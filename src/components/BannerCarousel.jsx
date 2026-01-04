@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const banners = ['/banner1.png', '/banner2.png'];
+const banners = ['/banner1.webp', '/banner2.webp'];
 
 const BannerCarousel = () => {
   const [current, setCurrent] = useState(0);
